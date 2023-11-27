@@ -1,0 +1,56 @@
+{
+    "controlador.TDALista.LinkedList": {
+        "head": {
+            "data": {
+                "@class": "modelo.Marca",
+                "id": 1,
+                "nombre": "Toyota",
+                "estado": true
+            },
+            "next": {
+                "data": {
+                    "@class": "modelo.Marca",
+                    "id": 2,
+                    "nombre": "Chevrolet",
+                    "estado": true
+                },
+                "next": {
+                    "data": {
+                        "@class": "modelo.Marca",
+                        "id": 3,
+                        "nombre": "Nissan",
+                        "estado": true
+                    },
+                    "next": {
+                        "data": {
+                            "@class": "modelo.Marca",
+                            "id": 4,
+                            "nombre": "Hyundai",
+                            "estado": true
+                        },
+                        "next": {
+                            "data": {
+                                "@class": "modelo.Marca",
+                                "id": 5,
+                                "nombre": "Audi",
+                                "estado": true
+                            },
+                            "next": {
+                                "data": {
+                                    "@class": "modelo.Marca",
+                                    "id": 6,
+                                    "nombre": "Kia",
+                                    "estado": true
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "last": {
+            "@reference": "..\/head\/next\/next\/next\/next\/next"
+        },
+        "size": 6
+    }
+}
