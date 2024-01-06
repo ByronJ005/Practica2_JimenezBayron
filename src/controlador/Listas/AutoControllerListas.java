@@ -35,7 +35,7 @@ public class AutoControllerListas extends DataAccesObject<Auto>{
     
     public LinkedList<Auto> getAutos() {
         if(autos.isEmpty())
-            autos = this.listall();
+            autos = listall();
         return autos;
     }
 

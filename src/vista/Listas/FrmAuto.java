@@ -53,7 +53,7 @@ public class FrmAuto extends javax.swing.JFrame {
         txtprecio.setEnabled(false);
         txtcolor.setEnabled(false);
         cbxmarca.setEnabled(false);
-    }
+    }//Para bloquear en caso de que el auto ya esté vendido
     
     private void habilitar(){
         txtvelocidad.setEnabled(true);
@@ -61,7 +61,7 @@ public class FrmAuto extends javax.swing.JFrame {
         txtprecio.setEnabled(true);
         txtcolor.setEnabled(true);
         cbxmarca.setEnabled(true);
-    }
+    }//Para volver a habilitar los campos.
     
     private void cargarTabla(){
         mal.setAutos(ac.getAutos());
