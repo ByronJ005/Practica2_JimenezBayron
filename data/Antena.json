@@ -1,0 +1,398 @@
+{
+    "controlador.listas.LinkedList": {
+        "head": {
+            "data": {
+                "@class": "modelo.Antena",
+                "id": 1,
+                "codigo": "ANT00001",
+                "foto1": "ff134ad3-4687-41c1-a2a9-460ddb2a1cd2.jpeg",
+                "foto2": "38e692d8-8816-4e93-ab18-91203447c6f2.jpeg",
+                "foto3": "Ninguna",
+                "altura": 40.6,
+                "latitud": -4.032604144737141,
+                "longitud": -79.20243239420161,
+                "fechaInstalacion": "2023-12-06 05:00:00.0 UTC",
+                "tipo": "Plana"
+            },
+            "next": {
+                "data": {
+                    "@class": "modelo.Antena",
+                    "id": 2,
+                    "codigo": "ANT00002",
+                    "foto1": "45a2ba09-4db7-4e1c-b8fd-de1f1050db4a.jpeg",
+                    "foto2": "1e509d4c-2089-45da-bbf4-f006c24667a1.jpg",
+                    "foto3": "Ninguna",
+                    "altura": 42.9,
+                    "latitud": -4.028194005335114,
+                    "longitud": -79.2088514640244,
+                    "fechaInstalacion": "2024-01-15 05:00:00.0 UTC",
+                    "tipo": "Parabolica"
+                },
+                "next": {
+                    "data": {
+                        "@class": "modelo.Antena",
+                        "id": 3,
+                        "codigo": "ANT00003",
+                        "foto1": "0f463af1-3a52-4117-9d6c-df47e223de73.jpeg",
+                        "foto2": "564c23ba-aa86-468a-b926-215049b3ef7b.png",
+                        "foto3": "Ninguna",
+                        "altura": 100.29,
+                        "latitud": -4.0175027496114595,
+                        "longitud": -79.20372820222651,
+                        "fechaInstalacion": "2024-10-16 05:00:00.0 UTC",
+                        "tipo": "Mircrostrip"
+                    },
+                    "next": {
+                        "data": {
+                            "@class": "modelo.Antena",
+                            "id": 4,
+                            "codigo": "ANT00004",
+                            "foto1": "1c119a84-01fd-43e4-816c-8f8bffbee95c.jpeg",
+                            "foto2": "Ninguna",
+                            "foto3": "24be5d8c-c7e4-47a7-9b6b-9ae2510b4161.jpg",
+                            "altura": 17.9,
+                            "latitud": -4.002404953884221,
+                            "longitud": -79.21470637546493,
+                            "fechaInstalacion": "2023-08-08 05:00:00.0 UTC",
+                            "tipo": "Parabolica"
+                        },
+                        "next": {
+                            "data": {
+                                "@class": "modelo.Antena",
+                                "id": 5,
+                                "codigo": "ANT00005",
+                                "foto1": "19c47260-23f3-46d2-8af1-1b935ca1589b.jpg",
+                                "foto2": "Ninguna",
+                                "foto3": "Ninguna",
+                                "altura": 167,
+                                "latitud": -4.007204066362635,
+                                "longitud": -79.20335674261548,
+                                "fechaInstalacion": "2023-02-10 15:20:00.276 UTC",
+                                "tipo": "Plana"
+                            },
+                            "next": {
+                                "data": {
+                                    "@class": "modelo.Antena",
+                                    "id": 6,
+                                    "codigo": "ANT00006",
+                                    "foto1": "5a93cddb-2149-4987-8fc9-193fbb53161a.jpeg",
+                                    "foto2": "Ninguna",
+                                    "foto3": "Ninguna",
+                                    "altura": 98.3,
+                                    "latitud": -4.02596062659928,
+                                    "longitud": -79.22433216221445,
+                                    "fechaInstalacion": "2022-05-21 15:21:09.197 UTC",
+                                    "tipo": "Parabolica"
+                                },
+                                "next": {
+                                    "data": {
+                                        "@class": "modelo.Antena",
+                                        "id": 7,
+                                        "codigo": "ANT00007",
+                                        "foto1": "e4b279da-91d3-4fb1-a4c3-fa267ab0e39b.jpg",
+                                        "foto2": "Ninguna",
+                                        "foto3": "Ninguna",
+                                        "altura": 69.96,
+                                        "latitud": -4.002322522156587,
+                                        "longitud": -79.2134620835612,
+                                        "fechaInstalacion": "2021-03-07 15:22:31.271 UTC",
+                                        "tipo": "Parabolica"
+                                    },
+                                    "next": {
+                                        "data": {
+                                            "@class": "modelo.Antena",
+                                            "id": 8,
+                                            "codigo": "ANT00008",
+                                            "foto1": "4d5d50ea-43eb-4be5-9613-d48f8bbce543.jpg",
+                                            "foto2": "Ninguna",
+                                            "foto3": "Ninguna",
+                                            "altura": 58,
+                                            "latitud": -3.9966803885787927,
+                                            "longitud": -79.20169619317431,
+                                            "fechaInstalacion": "2023-07-04 15:23:47.821 UTC",
+                                            "tipo": "Mircrostrip"
+                                        },
+                                        "next": {
+                                            "data": {
+                                                "@class": "modelo.Antena",
+                                                "id": 9,
+                                                "codigo": "ANT00009",
+                                                "foto1": "0dd6cfc9-8337-4500-9ac6-a6128cdc444a.png",
+                                                "foto2": "Ninguna",
+                                                "foto3": "Ninguna",
+                                                "altura": 100.1,
+                                                "latitud": -3.976537091642457,
+                                                "longitud": -79.20034309767598,
+                                                "fechaInstalacion": "2022-09-09 15:24:36.838 UTC",
+                                                "tipo": "Yagi"
+                                            },
+                                            "next": {
+                                                "data": {
+                                                    "@class": "modelo.Antena",
+                                                    "id": 10,
+                                                    "codigo": "ANT00010",
+                                                    "foto1": "d5cc59fc-b33a-4390-97cf-d6a1c0b66730.jpeg",
+                                                    "foto2": "Ninguna",
+                                                    "foto3": "Ninguna",
+                                                    "altura": 90.23,
+                                                    "latitud": -3.9796697854401626,
+                                                    "longitud": -79.21010310480787,
+                                                    "fechaInstalacion": "2023-01-02 05:00:00.0 UTC",
+                                                    "tipo": "Yagi"
+                                                },
+                                                "next": {
+                                                    "data": {
+                                                        "@class": "modelo.Antena",
+                                                        "id": 11,
+                                                        "codigo": "ANT00011",
+                                                        "foto1": "041d50f2-4412-49af-b021-6ba7f1dafc35.png",
+                                                        "foto2": "Ninguna",
+                                                        "foto3": "Ninguna",
+                                                        "altura": 90.2,
+                                                        "latitud": -4.001223123,
+                                                        "longitud": -79.624324323,
+                                                        "fechaInstalacion": "2023-01-02 05:00:00.0 UTC",
+                                                        "tipo": "Dipolo"
+                                                    },
+                                                    "next": {
+                                                        "data": {
+                                                            "@class": "modelo.Antena",
+                                                            "id": 12,
+                                                            "codigo": "ANT00012",
+                                                            "foto1": "2c1e076b-5548-4f78-b0b9-95fc2bdb88ab.png",
+                                                            "foto2": "Ninguna",
+                                                            "foto3": "Ninguna",
+                                                            "altura": 200.2,
+                                                            "latitud": -4.000023214,
+                                                            "longitud": -79.030902342,
+                                                            "fechaInstalacion": "2024-02-08 19:12:55.528 UTC",
+                                                            "tipo": "Dipolo"
+                                                        },
+                                                        "next": {
+                                                            "data": {
+                                                                "@class": "modelo.Antena",
+                                                                "id": 13,
+                                                                "codigo": "ANT00013",
+                                                                "foto1": "a2433b0e-8734-48eb-beec-85ff60e0a18f.png",
+                                                                "foto2": "Ninguna",
+                                                                "foto3": "Ninguna",
+                                                                "altura": 20.9,
+                                                                "latitud": -4.00324932432,
+                                                                "longitud": -79.9900234234,
+                                                                "fechaInstalacion": "2024-02-03 03:00:49.596 UTC",
+                                                                "tipo": "Dipolo"
+                                                            },
+                                                            "next": {
+                                                                "data": {
+                                                                    "@class": "modelo.Antena",
+                                                                    "id": 14,
+                                                                    "codigo": "ANT00014",
+                                                                    "foto1": "7e3481a4-872c-4456-bd79-d0733733c9b1.png",
+                                                                    "foto2": "Ninguna",
+                                                                    "foto3": "Ninguna",
+                                                                    "altura": 334.6,
+                                                                    "latitud": -4.03923423342,
+                                                                    "longitud": -79.320239423,
+                                                                    "fechaInstalacion": "2024-02-09 05:00:00.0 UTC",
+                                                                    "tipo": "Dipolo"
+                                                                },
+                                                                "next": {
+                                                                    "data": {
+                                                                        "@class": "modelo.Antena",
+                                                                        "id": 15,
+                                                                        "codigo": "ANT00015",
+                                                                        "foto1": "4659a8be-e762-4df8-a1c9-a1a3bd629d0f.png",
+                                                                        "foto2": "Ninguna",
+                                                                        "foto3": "Ninguna",
+                                                                        "altura": 90.3,
+                                                                        "latitud": -4.7040123123,
+                                                                        "longitud": -78.7040123123,
+                                                                        "fechaInstalacion": "2024-02-02 05:00:00.0 UTC",
+                                                                        "tipo": "Dipolo"
+                                                                    },
+                                                                    "next": {
+                                                                        "data": {
+                                                                            "@class": "modelo.Antena",
+                                                                            "id": 16,
+                                                                            "codigo": "ANT00016",
+                                                                            "foto1": "58dc53c1-690e-41db-9cc5-3504a8423bd0.jpeg",
+                                                                            "foto2": "Ninguna",
+                                                                            "foto3": "Ninguna",
+                                                                            "altura": 33.89,
+                                                                            "latitud": -4.7040123123,
+                                                                            "longitud": -79.7040123123,
+                                                                            "fechaInstalacion": "2024-02-02 05:00:00.0 UTC",
+                                                                            "tipo": "Dipolo"
+                                                                        },
+                                                                        "next": {
+                                                                            "data": {
+                                                                                "@class": "modelo.Antena",
+                                                                                "id": 17,
+                                                                                "codigo": "ANT00017",
+                                                                                "foto1": "c5354e8f-d1b7-46e9-8210-a80818a62ca8.jpg",
+                                                                                "foto2": "Ninguna",
+                                                                                "foto3": "Ninguna",
+                                                                                "altura": 90.93,
+                                                                                "latitud": -4.57040123123,
+                                                                                "longitud": -79.7040123123,
+                                                                                "fechaInstalacion": "2024-02-09 03:03:12.629 UTC",
+                                                                                "tipo": "Dipolo"
+                                                                            },
+                                                                            "next": {
+                                                                                "data": {
+                                                                                    "@class": "modelo.Antena",
+                                                                                    "id": 18,
+                                                                                    "codigo": "ANT00018",
+                                                                                    "foto1": "9f85b149-6d05-4453-ad6e-b8810f77ed5d.jpg",
+                                                                                    "foto2": "Ninguna",
+                                                                                    "foto3": "Ninguna",
+                                                                                    "altura": 98.34,
+                                                                                    "latitud": -4.7040123123,
+                                                                                    "longitud": -77.7040123123,
+                                                                                    "fechaInstalacion": "2024-02-07 03:03:37.765 UTC",
+                                                                                    "tipo": "Dipolo"
+                                                                                },
+                                                                                "next": {
+                                                                                    "data": {
+                                                                                        "@class": "modelo.Antena",
+                                                                                        "id": 19,
+                                                                                        "codigo": "ANT00019",
+                                                                                        "foto1": "575a9bf9-0042-47a4-abce-e00e96b68221.png",
+                                                                                        "foto2": "Ninguna",
+                                                                                        "foto3": "Ninguna",
+                                                                                        "altura": 34.6,
+                                                                                        "latitud": -4.7040123123,
+                                                                                        "longitud": -78.7040123123,
+                                                                                        "fechaInstalacion": "2024-02-03 03:04:03.749 UTC",
+                                                                                        "tipo": "Dipolo"
+                                                                                    },
+                                                                                    "next": {
+                                                                                        "data": {
+                                                                                            "@class": "modelo.Antena",
+                                                                                            "id": 20,
+                                                                                            "codigo": "ANT00020",
+                                                                                            "foto1": "1961b210-992e-4d48-a897-b603716ae7b5.png",
+                                                                                            "foto2": "f5258a00-7844-46ed-85a3-c2d58d0282b2.jpeg",
+                                                                                            "foto3": "Ninguna",
+                                                                                            "altura": 45.6,
+                                                                                            "latitud": -4.689293432,
+                                                                                            "longitud": -79.902934234,
+                                                                                            "fechaInstalacion": "2024-02-09 03:13:10.752 UTC",
+                                                                                            "tipo": "Dipolo"
+                                                                                        },
+                                                                                        "next": {
+                                                                                            "data": {
+                                                                                                "@class": "modelo.Antena",
+                                                                                                "id": 21,
+                                                                                                "codigo": "ANT00021",
+                                                                                                "foto1": "b001b301-06ba-4400-9a5c-6ddba8888ea4.jpg",
+                                                                                                "foto2": "Ninguna",
+                                                                                                "foto3": "Ninguna",
+                                                                                                "altura": 2,
+                                                                                                "latitud": -4.78,
+                                                                                                "longitud": -78.34,
+                                                                                                "fechaInstalacion": "2024-02-08 03:25:36.935 UTC",
+                                                                                                "tipo": "Dipolo"
+                                                                                            },
+                                                                                            "next": {
+                                                                                                "data": {
+                                                                                                    "@class": "modelo.Antena",
+                                                                                                    "id": 22,
+                                                                                                    "codigo": "ANT00022",
+                                                                                                    "foto1": "601d12e2-5d92-4f54-82b5-0497017be0a8.png",
+                                                                                                    "foto2": "Ninguna",
+                                                                                                    "foto3": "Ninguna",
+                                                                                                    "altura": 66,
+                                                                                                    "latitud": -4.6,
+                                                                                                    "longitud": -78.34,
+                                                                                                    "fechaInstalacion": "2024-02-02 03:25:57.799 UTC",
+                                                                                                    "tipo": "Dipolo"
+                                                                                                },
+                                                                                                "next": {
+                                                                                                    "data": {
+                                                                                                        "@class": "modelo.Antena",
+                                                                                                        "id": 23,
+                                                                                                        "codigo": "ANT00023",
+                                                                                                        "foto1": "efe4ec92-25dc-49e3-a59c-9b669e725662.jpg",
+                                                                                                        "foto2": "Ninguna",
+                                                                                                        "foto3": "Ninguna",
+                                                                                                        "altura": 56,
+                                                                                                        "latitud": -4.5,
+                                                                                                        "longitud": -79.466,
+                                                                                                        "fechaInstalacion": "2024-02-11 03:26:19.647 UTC",
+                                                                                                        "tipo": "Dipolo"
+                                                                                                    },
+                                                                                                    "next": {
+                                                                                                        "data": {
+                                                                                                            "@class": "modelo.Antena",
+                                                                                                            "id": 24,
+                                                                                                            "codigo": "ANT00024",
+                                                                                                            "foto1": "82b73998-d1c4-45fb-aea6-da3d52ffc0fb.jpg",
+                                                                                                            "foto2": "Ninguna",
+                                                                                                            "foto3": "Ninguna",
+                                                                                                            "altura": 90.3,
+                                                                                                            "latitud": -7.32432,
+                                                                                                            "longitud": -79.33234324,
+                                                                                                            "fechaInstalacion": "2024-02-11 03:26:19.647 UTC",
+                                                                                                            "tipo": "Dipolo"
+                                                                                                        },
+                                                                                                        "next": {
+                                                                                                            "data": {
+                                                                                                                "@class": "modelo.Antena",
+                                                                                                                "id": 25,
+                                                                                                                "codigo": "ANT00025",
+                                                                                                                "foto1": "4814c308-e68f-4027-85df-6f2a6e82335c.jpg",
+                                                                                                                "foto2": "Ninguna",
+                                                                                                                "foto3": "Ninguna",
+                                                                                                                "altura": 345,
+                                                                                                                "latitud": -4.645,
+                                                                                                                "longitud": -79.3249,
+                                                                                                                "fechaInstalacion": "2024-02-11 03:26:19.647 UTC",
+                                                                                                                "tipo": "Dipolo"
+                                                                                                            },
+                                                                                                            "next": {
+                                                                                                                "data": {
+                                                                                                                    "@class": "modelo.Antena",
+                                                                                                                    "id": 26,
+                                                                                                                    "codigo": "ANT00026",
+                                                                                                                    "foto1": "807deef8-6f37-45b8-a224-4c119944e35b.jpg",
+                                                                                                                    "foto2": "Ninguna",
+                                                                                                                    "foto3": "Ninguna",
+                                                                                                                    "altura": 9234,
+                                                                                                                    "latitud": -4.55345,
+                                                                                                                    "longitud": -79.32423,
+                                                                                                                    "fechaInstalacion": "2024-02-04 03:28:18.143 UTC",
+                                                                                                                    "tipo": "Dipolo"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        }
+                                                                                                    }
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "last": {
+            "@reference": "..\/head\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next"
+        },
+        "size": 26
+    }
+}
